@@ -85,11 +85,6 @@ under `build/nodes/NodeX` or `build/nodes/NodeX`:
      PartyA: localhost:10007
      PartyB: localhost:10010
 
-As the nodes start up, they should tell you which host and port their
-embedded web server is running on. The API endpoints served are:
-
-     /api/template/templateGetEndpoint
-
 And the static web content is served from:
 
      /web/template
